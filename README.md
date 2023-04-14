@@ -1,4 +1,11 @@
-👋 Hi, I’m @sumiKim
+👋 Hi, 
+I’m SumiKim. 
+and my English name is Ellin.
+
+🐶 
+I have a puppy named Cong. Black haired Chihuahua.
+I like to go for a walk with him.
+
 
 
 <!---
